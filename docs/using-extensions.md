@@ -42,7 +42,7 @@ Load script `'tui-editor/dist/tui-editor-extUML.js'` and enable uml extension by
 see example [here](https://nhnent.github.io/tui.editor/api/latest/tutorial-example08-uml.html)
 
 ## For Chart
-You can draw chart from TSV, CSV data format using [tui-chart](nhnent.github.io/tui.chart/latest)
+You can draw chart from TSV, CSV data format using [tui-chart](https://nhnent.github.io/tui.chart/latest)
 
 ![image](https://user-images.githubusercontent.com/1215767/34478882-bb25bc48-efe6-11e7-83fd-2da47107133d.png)
 
